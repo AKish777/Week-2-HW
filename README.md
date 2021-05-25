@@ -1,1 +1,3 @@
 # Week-2-HW
+
+In homework week 2 we were supposed to create a website that showcases your skills on the website itself. The irony is that we showed our skills mainly in the websites “operability” if that makes sense. The website showcases my name, a cool subtitle, hover function on links at the top and bottom of the page, as well as a hover effect on the “skills tabs” in the center of the page. I honestly had a little bit of a tough time creating the website and restarted multiple times and as a result spent maybe about 30 + hours coding. I feel that I have taking on a grasp on it, I will definitely require more practice to create a website like this or better in the future.
